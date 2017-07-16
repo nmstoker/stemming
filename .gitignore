@@ -100,3 +100,6 @@ ENV/
 
 
 .directory
+
+# Futurize backup files
+*.py.bak
